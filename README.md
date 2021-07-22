@@ -10,3 +10,7 @@ Time Series Data Primer in Python includes Jupiter Notebooks on:
 
 # Few samples attached below:
 
+![](samples/1.png)
+![](samples/2.png)
+![](samples/3.png)
+![](samples/4.png)
